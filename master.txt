@@ -1,1 +1,4 @@
 
+<Version:1.01>
+\data\map002.json
+<End of Version>
