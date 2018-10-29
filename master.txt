@@ -1,4 +1,4 @@
 
-<Version:1.1>
-\data\test.zip  https://raw.githubusercontent.com/jarick254/project01/master/master.txt
+<Version:1.02>
+\data\test.zip https://wordpress.org/latest.zip
 <End of Version>
