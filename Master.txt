@@ -1,4 +1,4 @@
 
-<Version: 1.05>
+<Version: 1.06>
 \data\Map002.json https://raw.githubusercontent.com/jarick254/project01/master/Map002.json
 <End of Version>
