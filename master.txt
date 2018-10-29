@@ -4,5 +4,5 @@
 <End of Version>
 
 <Version:1.11>
-\data\test.zip https://wordpress.org/latest.zip
+\data\Map002.json  https://wordpress.org/latest.zip
 <End of Version>
